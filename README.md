@@ -5,6 +5,12 @@ Academia de JAVA (Abril/2022 - Julho/2022)
 Projeto Final: "Copa do Mundo 2022"
 
 -------------------------------------------------------------------------
+Documentação completa do sistema disponibilizada no arquivo: 
+"Documentação.pdf"
+
+Apresentação disponível no documento:
+"Apresentacao.pdf"
+-------------------------------------------------------------------------
 INTRODUÇÃO:
 
 O projeto utilizar os conhecimentos absorvidos durante a Academia Java -
@@ -89,8 +95,3 @@ Descrição:	Importando o arquivo .csv na tabela do banco de dados, já irá adi
 
 -----------------------------------------------------------------------------
 
-Documentação completa do sistema disponibilizada no arquivo: 
-"Projeto-Final-Copa-do-Mundo.pdf"
-
-Apresentação disponível no documento:
-"Apresentacao-Copa-do-Mundo"
