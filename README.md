@@ -5,11 +5,14 @@ Academia de JAVA (Abril/2022 - Julho/2022)
 Projeto Final: "Copa do Mundo Qatar 2022"
 
 -------------------------------------------------------------------------
-Documentação completa do sistema disponibilizada no arquivo: 
-"Documentação.pdf"
+-Documentação completa do sistema disponibilizada no arquivo: 
+	"Documentação.pdf"
 
-Apresentação do projeto disponível no documento:
-"Apresentacao.pdf"
+-Apresentação do projeto disponível no documento:
+	"Apresentacao.pdf"
+
+-Video da navegação completa do sistema em funcionamento: 
+	https://youtu.be/CwB6Zl2Cxyk
 -------------------------------------------------------------------------
 INTRODUÇÃO:
 
