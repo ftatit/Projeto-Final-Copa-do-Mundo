@@ -39,7 +39,7 @@ Banco de Dados: 	MySQL Workbench
 -------------------------------------------------------------------------
 PASSO-A-PASSO PARA UTILIZAÇÃO DA APLICAÇÃO:
 
-Para o funcionamento correto do sistema, basta importar o projeto no Eclipse, como "Existing Maven Projects".
+Para o funcionamento correto do sistema, basta importar a pasta "copa2022" no Eclipse, como "Existing Maven Projects".
 Ao rodar a aplicação, ela criará o banco de dados no MySQL Workbench. O banco possui o nome "copa2022teste" 
 e cinco tabelas desenvolvidas. 
 
